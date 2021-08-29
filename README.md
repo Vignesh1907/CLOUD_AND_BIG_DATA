@@ -9,4 +9,4 @@ Inner Join query = [https://console.cloud.google.com/bigquery?sq=1057411937738:2
 
 Left join query = [https://console.cloud.google.com/bigquery?sq=1057411937738:6984bd1d52b84d6cbe65c1f603c65a69]
 
-Select If query = [https://console.cloud.google.com/bigquery?sq=1057411937738:9da0db958020420e8a8637d1bc53a5d7]
+Select If query = [https://console.cloud.google.com/bigquery?sq=1057411937738:0d560a89ced44957a088f2e616027c4a]
